@@ -1,0 +1,17 @@
+{
+  "en": "English",
+  "vi": "Vietnamese",
+  "register": "Register",
+  "login": "Login",
+  "cancel": "Cancel",
+  "username": "Username",
+  "email": "Email",
+  "password": "Password",
+  "confirm_password": "Confirm Password",
+  "input_username_error": "Please input your username!",
+  "input_email_error": "Please input your email!",
+  "valid_email_error": "Please enter a valid email!",
+  "input_password_error": "Please input your password!",
+  "confirm_password_error": "Please confirm your password!",
+  "password_mismatch_error": "The two passwords do not match!"
+}
